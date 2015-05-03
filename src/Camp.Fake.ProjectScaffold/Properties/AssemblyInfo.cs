@@ -4,10 +4,10 @@ using System.Reflection;
 [assembly: AssemblyTitleAttribute("Camp.Fake.ProjectScaffold")]
 [assembly: AssemblyProductAttribute("Camp.Fake.ProjectScaffold")]
 [assembly: AssemblyDescriptionAttribute("It's my first test how to use Fake assisted by github.com/fsprojects/ProjectScaffold")]
-[assembly: AssemblyVersionAttribute("1.0")]
-[assembly: AssemblyFileVersionAttribute("1.0")]
+[assembly: AssemblyVersionAttribute("1.0.1")]
+[assembly: AssemblyFileVersionAttribute("1.0.1")]
 namespace System {
     internal static class AssemblyVersionInformation {
-        internal const string Version = "1.0";
+        internal const string Version = "1.0.1";
     }
 }

@@ -1,3 +1,6 @@
+### 1.0.1 - May 3 2015
+* First decent release inluding automatic git push.
+
 ### 1.0 - May 1 2015
 * Replaced F# projects by equivalent C# one.
 * Removed unnecessary Mono switches from build.fsx
