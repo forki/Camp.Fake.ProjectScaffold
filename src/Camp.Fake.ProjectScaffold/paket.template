@@ -1,0 +1,23 @@
+type project
+owners
+    Marcel
+authors 
+    Marcel
+projectUrl
+    http://github.com/aureole82/Camp.Fake.ProjectScaffold
+iconUrl
+    https://raw.githubusercontent.com/aureole82/Camp.Fake.ProjectScaffold/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/aureole82/Camp.Fake.ProjectScaffold/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    C#
+summary
+    It's my first test how to use Fake assisted by github.com/fsprojects/ProjectScaffold
+description
+    Description not set
+
+
