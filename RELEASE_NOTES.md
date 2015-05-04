@@ -1,3 +1,6 @@
+### 1.0.3 - May 4 2015
+* Readme updated.
+
 ### 1.0.2 - May 4 2015
 * Second try to release.
 
