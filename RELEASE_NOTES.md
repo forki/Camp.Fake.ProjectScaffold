@@ -1,3 +1,6 @@
+### 1.0.2 - May 4 2015
+* Second try to release.
+
 ### 1.0.1 - May 3 2015
 * First decent release inluding automatic git push.
 
