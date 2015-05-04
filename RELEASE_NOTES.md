@@ -1,3 +1,6 @@
+### 1.0.5 - May 4 2015
+* SourceLink removed since it throws errors.
+
 ### 1.0.4 - May 4 2015
 * Library and client splitted.
 * Library API generation fixed.

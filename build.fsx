@@ -9,8 +9,6 @@ open Fake.AssemblyInfoFile
 open Fake.ReleaseNotesHelper
 open System
 open System.IO
-#load "packages/SourceLink.Fake/tools/Fake.fsx"
-open SourceLink
 
 // --------------------------------------------------------------------------------------
 // START TODO: Provide project-specific details below
