@@ -35,27 +35,35 @@
           
 <h1><a name="Introducing-your-project" class="anchor" href="#Introducing-your-project">Introducing your project</a></h1>
 
-<p>Say more</p>
+<p>Add</p>
 
 <table class="pre"><tr><td class="lines"><pre class="fssnip">
 <span class="l">1: </span>
-<span class="l">2: </span>
-<span class="l">3: </span>
-<span class="l">4: </span>
 </pre>
 </td>
 <td class="snippet"><pre class="fssnip">
-<span class="prep">#r</span> <span class="s">&quot;Camp.Fake.ProjectScaffold.dll&quot;</span>
-<span class="k">open</span> <span class="i">Camp</span><span class="o">.</span><span class="i">Fake</span><span class="o">.</span><span class="i">ProjectScaffold</span>
-
-<span class="i">Library</span><span class="o">.</span><span class="i">hello</span> <span class="n">0</span>
+<span onmouseout="hideTip(event, 'fs1', 1)" onmouseover="showTip(event, 'fs1', 1)" class="f">using</span> <span class="i">Camp</span><span class="o">.</span><span class="i">Fake</span><span class="o">.</span><span class="i">ProjectScaffold</span>;
 </pre>
 </td>
 </tr>
 </table>
 
-<p>Some more info</p>
+<p>Call</p>
 
+<table class="pre"><tr><td class="lines"><pre class="fssnip">
+<span class="l">1: </span>
+</pre>
+</td>
+<td class="snippet"><pre class="fssnip">
+<span class="i">Library</span><span class="o">.</span><span class="i">Hello</span>(<span class="n">0</span>)
+</pre>
+</td>
+</tr>
+</table>
+
+<p>You might use the return value of <code>Hello(..)</code>. It's always 42!</p>
+
+<div class="tip" id="fs1">val using : resource:&#39;T -&gt; action:(&#39;T -&gt; &#39;U) -&gt; &#39;U (requires &#39;T :&gt; System.IDisposable)<br /><br />Full name: Microsoft.FSharp.Core.Operators.using</div>
 
         </div>
         <div class="span3">
@@ -64,7 +72,6 @@
             <li class="nav-header">Camp.Fake.ProjectScaffold</li>
             <li><a href="/Camp.Fake.ProjectScaffold/index.html">Home page</a></li>
             <li class="divider"></li>
-            <li><a href="http://nuget.org/packages/Camp.Fake.ProjectScaffold">Get Library via NuGet</a></li>
             <li><a href="http://github.com/aureole82/Camp.Fake.ProjectScaffold">Source Code on GitHub</a></li>
             <li><a href="/Camp.Fake.ProjectScaffold/license.html">License</a></li>
             <li><a href="/Camp.Fake.ProjectScaffold/release-notes.html">Release Notes</a></li>
