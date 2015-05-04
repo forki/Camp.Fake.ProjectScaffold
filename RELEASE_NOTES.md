@@ -1,3 +1,6 @@
+### 1.0.6 - May 4 2015
+* Dummy release.
+
 ### 1.0.5 - May 4 2015
 * SourceLink removed since it throws errors.
 
