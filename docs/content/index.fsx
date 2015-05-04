@@ -7,30 +7,18 @@
 Camp.Fake.ProjectScaffold
 ======================
 
-Documentation
-
-<div class="row">
-  <div class="span1"></div>
-  <div class="span6">
-    <div class="well well-small" id="nuget">
-      The Camp.Fake.ProjectScaffold library can be <a href="https://nuget.org/packages/Camp.Fake.ProjectScaffold">installed from NuGet</a>:
-      <pre>PM> Install-Package Camp.Fake.ProjectScaffold</pre>
-    </div>
-  </div>
-  <div class="span1"></div>
-</div>
-
 Example
 -------
 
 This example demonstrates using a function defined in this sample library.
 
+Add
 *)
-#r "Camp.Fake.ProjectScaffold.dll"
-open Camp.Fake.ProjectScaffold
-
-printfn "hello = %i" <| Library.hello 0
-
+using Camp.Fake.ProjectScaffold;
+(**
+Call
+*)
+Console.WriteLine("{0}", Library.Hello(0));
 (**
 Some more info
 

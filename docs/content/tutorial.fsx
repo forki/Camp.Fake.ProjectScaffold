@@ -7,13 +7,13 @@
 Introducing your project
 ========================
 
-Say more
-
+Add
 *)
-#r "Camp.Fake.ProjectScaffold.dll"
-open Camp.Fake.ProjectScaffold
-
-Library.hello 0
+using Camp.Fake.ProjectScaffold;
 (**
-Some more info
+Call
+*)
+Library.Hello(0)
+(**
+You might use the return value of `Hello(..)`. It's always 42!
 *)

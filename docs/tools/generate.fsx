@@ -9,7 +9,7 @@
 // for binaries output to root bin folder please add the filename only to the 
 // referenceBinaries list below in order to generate documentation for the binaries.
 // (This is the original behaviour of ProjectScaffold prior to multi project support)
-let referenceBinaries = []
+let referenceBinaries = [ ]
 // Web site location for the generated documentation
 let website = "/Camp.Fake.ProjectScaffold"
 
@@ -20,8 +20,7 @@ let info =
   [ "project-name", "Camp.Fake.ProjectScaffold"
     "project-author", "Marcel"
     "project-summary", "It's my first test how to use Fake assisted by github.com/fsprojects/ProjectScaffold"
-    "project-github", githubLink
-    "project-nuget", "http://nuget.org/packages/Camp.Fake.ProjectScaffold" ]
+    "project-github", githubLink]
 
 // --------------------------------------------------------------------------------------
 // For typical project, no changes are needed below

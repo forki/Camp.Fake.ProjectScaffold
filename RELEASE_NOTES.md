@@ -1,3 +1,9 @@
+### 1.0.4 - May 4 2015
+* Library and client splitted.
+* Library API generation fixed.
+* Documentation updated.
+* NuGet reference removed.
+
 ### 1.0.3 - May 4 2015
 * Readme updated.
 

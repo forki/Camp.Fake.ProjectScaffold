@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camp.Fake.ProjectScaffold.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camp.Fake.ProjectScaffold", "src\Camp.Fake.ProjectScaffold\Camp.Fake.ProjectScaffold.csproj", "{8F03F9D8-FDC0-4830-8E30-1C4F47FC6A37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camp.Fake.ProjectScaffold.Client", "src\Camp.Fake.ProjectScaffold.Client\Camp.Fake.ProjectScaffold.Client.csproj", "{010A1270-FEC9-4464-B21B-E94983765D49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{8F03F9D8-FDC0-4830-8E30-1C4F47FC6A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F03F9D8-FDC0-4830-8E30-1C4F47FC6A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F03F9D8-FDC0-4830-8E30-1C4F47FC6A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010A1270-FEC9-4464-B21B-E94983765D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010A1270-FEC9-4464-B21B-E94983765D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010A1270-FEC9-4464-B21B-E94983765D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010A1270-FEC9-4464-B21B-E94983765D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
